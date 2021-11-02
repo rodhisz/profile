@@ -17,5 +17,5 @@
 <br>
 <br>
 
-<img width="300px" src="https://github-readme-stats.vercel.app/api?username=rodhisz"/>
-<img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodhisz"/>
+<img width="200px" src="https://github-readme-stats.vercel.app/api?username=rodhisz"/>
+<img width="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodhisz"/>

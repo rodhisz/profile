@@ -14,5 +14,5 @@
 [<img align="left" alt="rodhisz | LinkedIn" width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/rodhi-shafia-zaidan-924042181)
 [<img align="left" alt="rodhisz | Instagram" width="100px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://instagram.com/bananaavv?utm_medium=copy_link)
 
-https://github-readme-stats.vercel.app/api?username=rodhisz
-https://github-readme-stats.vercel.app/api/top-langs/?username=rodhisz
+<img width="100px" src="https://github-readme-stats.vercel.app/api?username=rodhisz"/>
+<img width="100px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodhisz"/>
